@@ -5,8 +5,11 @@ By sorting data points by x-coordinate to approximate the missing t-values, the 
 The final optimized parameters θ = 0.52436 rad (30.04°), M = 0.029991, X = 55.015514 resulted in an L1 distance of 453.44 across 1500 points.
 
 ## FINAL DESMOS SUBMISSION :: 
+```
+
 \left(t*\cos(0.52436)-e^{0.029991\left|t\right|}\cdot\sin(0.3t)\sin(0.52436)+55.015514,42+t*\sin(0.52436)+e^{0.029991\left|t\right|}\cdot\sin(0.3t)\cos(0.52436)\right)
 
+```
 
 
 ## 1)Introduction
